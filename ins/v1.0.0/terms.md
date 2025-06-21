@@ -1,10 +1,5 @@
 # Terms of Service
 
-<!--toc:start-->
-- [Data collection](#data-collection)
-- [Content policy](#content-policy)
-<!--toc:end-->
-
 The Intranet of Schools is an app created by the Record Breakers. By *IS* in this we are
 are refering to *The Intranet of Schools* project by the Record breakers. By *RB* we mean
 the Record Breakers team, creators and maintainers of this project.
